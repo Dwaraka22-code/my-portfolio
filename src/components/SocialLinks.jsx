@@ -12,7 +12,7 @@ const SocialLinks = () => {
           LinkedIn <FaLinkedin size={30} />
         </>
       ),
-      href: 'https://linkedin.com',
+      href: 'https://www.linkedin.com/in/dwaraka2212/',
       style: 'rounded-tr-md',
     },
     {
@@ -31,7 +31,7 @@ const SocialLinks = () => {
           Mail <HiOutlineMail size={30} />
         </>
       ),
-      href: 'mailto:foo@gmail.com',
+      href: 'mailto:dwarakaprabhu.22@gmail.com',
     },
     {
       id: 4,
@@ -40,7 +40,7 @@ const SocialLinks = () => {
           Resume <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href: '/resume.pdf',
+      href: 'resume.pdf',
       style: 'rounded-br-md',
       download: true,
     },
